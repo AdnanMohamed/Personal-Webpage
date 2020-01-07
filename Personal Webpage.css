@@ -1,0 +1,103 @@
+#AboutMe{
+	text-align: justify;
+	font-family: Times New Roman;
+	font-size: 18px;
+}
+
+#myPhoto{
+	width: 150px;
+	margin-bottom: 2em;
+}
+
+#body{
+	background: rgba(114, 204, 252,.7);
+}
+
+#name{
+	margin-top: 2em;
+}
+
+#nav-title{
+	font-size: 1.5em;
+}
+
+#content{
+	margin-top: 5em; 
+}
+
+#Books-Page-Title{
+	text-align: center;
+	margin-top: 2em;
+	color: rgb(227, 127, 45);
+}
+
+.content3{
+	margin: 2em 0 4em 2em;
+}
+
+.images3{
+	margin-bottom: 2em;
+	width: 150px;
+}
+
+.About-Books{
+	width: 40%;
+}
+
+.Authors{
+	font-size: .6em;
+	color: black;
+}
+
+.Authors:visited{
+	color: green;
+}
+
+.Books-Title{
+	color: black;
+}
+
+.Books-Title:visited{
+	color:blue;
+}
+
+.jumbotron{
+	width: 70%;
+	margin: auto;
+	color: rgb(227, 127, 45);
+	font-weight: bold;
+	background-image: url(https://images.unsplash.com/photo-1526721940322-10fb6e3ae94a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80);
+}
+
+#quote{
+	text-align: center;
+	color: rgb(242, 239, 48);
+}
+
+figcaption{
+	text-align: center;
+}
+
+#body3{
+	background-color: rgba(245, 206, 144,1);
+}
+
+#nav-title4{
+	font-family: Oswald;
+}
+
+#Movies-Page-Title{
+	font-family: Oswald;
+	text-align: center;
+	margin-top: 2em;
+	color: rgb(227, 127, 45);
+}
+
+#body4{
+	background-color: rgba(250, 182, 177,1);
+}
+
+.About-Movies{
+	width: 50%;
+	text-align: justify;
+}
